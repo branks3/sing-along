@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Media files
+media/songs/
+media/lyrics_images/
+media/shared_links/
+
+# OS
+.DS_Store
