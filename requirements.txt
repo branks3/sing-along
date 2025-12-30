@@ -1,0 +1,6 @@
+streamlit
+numpy
+pydub
+ffmpeg-python
+cloudinary
+starlette
