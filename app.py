@@ -13,7 +13,8 @@ from datetime import datetime
 st.set_page_config(page_title="𝄞 sing-along", layout="wide")
 
 # --------- CONFIG: set your deployed app URL here ----------
-APP_URL = "https://karaoke-project-production.up.railway.app/"
+APP_URL = "APP_URL = "https://sing-along-production.up.railway.app/"
+"
 
 # 🔒 SECURITY: Environment Variables for Password Hashes
 ADMIN_HASH = os.getenv("ADMIN_HASH", "")
